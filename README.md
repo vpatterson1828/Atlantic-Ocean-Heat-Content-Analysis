@@ -1,7 +1,4 @@
----
-title: "Hurricane and Ocean Heat Content Analysis"
-output: github_document
----
+# Hurricane and Ocean Heat Content Analysis
 
 ## Description
 This project analyzes trends in Atlantic Ocean Heat Content (OHC) at the 0–700 meter layer from 2005 to 2024, using regression techniques to study long-term patterns and fluctuations over time and, later, incorporating hurricanes and tropical storms. It aims to explore the relationship between ocean heat dynamics, time, and extreme weather events.
